@@ -18,7 +18,8 @@ User : Receiver
 4. Display the detail of the challenge with "accept" and "reject"
 5. "accept" => user performs action and take photo
 6. "reject" => user does payment
-7. 
 
-Pyament
+
+Payment
+1. User should able to send payment and accept payment 
 
